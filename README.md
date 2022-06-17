@@ -13,6 +13,8 @@
 - Replacing content with JS (DOM / BOM)
 - and more...
 
+![Screenshot](./app-showcase/1.png)
+
 ## Frontend
 
 ### For the frontend we are using serve (npm serve package) to serve the FE folder
