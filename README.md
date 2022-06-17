@@ -43,7 +43,7 @@ ___
 Feel free to add your own backend REST-API here instead</div>
 - `json-server --watch ./backend/app-data.json -- --port=5555`
 
-## <div style="color:pink;">TO-DO 😋</div>
+## <div style="color: pink;">TO-DO 😋</div>
 
 - Load Images from backend
 - refactor frontend js code (initializing survivors / killers / maps)
@@ -57,7 +57,7 @@ Feel free to add your own backend REST-API here instead</div>
 - map slider
 - tbd...
 
-## <div style="color:pink;">TO-DO-IN-FUTURE 😬</div>
+## <div style="color: pink;">TO-DO-IN-FUTURE 😬</div>
 
 - refactor killer theme (music)
 - create repository on GitHub
