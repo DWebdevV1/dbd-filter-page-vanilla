@@ -1,4 +1,4 @@
-# Dead By Daylight Filter page with Vanilla JS 
+# Dead By Daylight filter page with Vanilla JS 
 ### This project is all about some DOM manipulation with vanilla JS (SPA approach).
 #### There is no focus on performance or something like that
 
