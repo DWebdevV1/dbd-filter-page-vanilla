@@ -11,6 +11,7 @@
 - Vanilla JS modal approach
 - Playing audio files with event listeners
 - Replacing content with JS (DOM / BOM)
+- Responsive Design via media queries
 - and more...
 
 ![Survivor List](./app-showcase/1.png)
