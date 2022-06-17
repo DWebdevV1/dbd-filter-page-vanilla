@@ -13,6 +13,7 @@
 - Playing audio files with event listeners
 - Replacing content with JS (DOM / BOM)
 - Responsive Design via media queries
+- Position relative and absolute elements
 - and more...
 
 ![Survivor List](./app-showcase/1.png)
