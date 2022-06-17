@@ -1,6 +1,6 @@
 # <div style="color: purple;">Dead By Daylight filter page with Vanilla JS</div> 😎 🥸 🥳
 ### <div style="color: limegreen;">This project is all about some DOM manipulation with vanilla JS (SPA approach).</div>
-#### <div style="color: red;">There is no focus on performance or something like that</div>
+#### <div style="color: red;">There is no focus on performance or something like that 🥱</div>
 
 ## <div style="color: sandybrown;">Features of this App</div>
 - Using the FETCH API to make backend calls (REST-API)
@@ -60,7 +60,6 @@ Feel free to add your own backend REST-API here instead</div>
 ## <div style="color: pink;">TO-DO-IN-FUTURE 😬</div>
 
 - refactor killer theme (music)
-- create repository on GitHub
 - Replace fake backend rest api with nodeJs backend (express & mongodb)
 - use webpack bundler (maybe)
 - tbd...
