@@ -1,7 +1,7 @@
 # Dead By Daylight filter page with Vanilla JS 
 ### This project is all about some DOM manipulation with vanilla JS (SPA approach).
 #### There is no focus on performance or something like that
-##### It's a fun project 😁 😆 😅 😇 🙂 🙃
+##### It's a fun project 😁 😇
 
 ## Features of this App
 - Using the FETCH API to make backend calls (REST-API)
