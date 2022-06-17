@@ -1,4 +1,4 @@
-# <div style="color: purple;">Dead By Daylight Filter page with Vanilla JS</div> 😎 🥸 🤩
+# <div style="color: purple;">Dead By Daylight Filter page with Vanilla JS</div> 😎 🥸 🥳
 ### <div style="color: limegreen;">This project is all about some DOM manipulation with vanilla JS (SPA approach).</div>
 #### <div style="color: red;">There is no focus on performance or something like that</div>
 
@@ -15,19 +15,19 @@
 
 ___
 
-#### <div style="color: black;">Dynamic Data List (Survivor / Killers / Maps)</div>
+#### <div style="color: black;">Dynamic Data List (Survivor / Killers / Maps) 🤩</div>
 ![Survivor List](./app-showcase/1.png)
 
-#### <div style="color: black;">Dynamic Data Modal</div>
+#### <div style="color: black;">Dynamic Data Modal 🤩</div>
 ![Survivor Modal](./app-showcase/2.png)
 
-#### <div style="color: black;">Data Filter & Search</div>
+#### <div style="color: black;">Data Filter & Search 🤩</div>
 ![Survivor Filter](./app-showcase/3.png)
 
-#### <div style="color: black;">Active Audio Showcase</div>
+#### <div style="color: black;">Active Audio Showcase 🤩</div>
 ![Killer List](./app-showcase/4.png)
 
-#### <div style="color: black;">Animations & Transitions</div>
+#### <div style="color: black;">Animations & Transitions 🤩</div>
 ![Map List](./app-showcase/5.png)
 
 ___
