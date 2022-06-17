@@ -13,15 +13,15 @@
 - Replacing content with JS (DOM / BOM)
 - and more...
 
-![Screenshot](./app-showcase/1.png)
+![Survivor List](./app-showcase/1.png)
 
-![Screenshot](./app-showcase/2.png)
+![Survivor Modal](./app-showcase/2.png)
 
-![Screenshot](./app-showcase/3.png)
+![Survivor Filter](./app-showcase/3.png)
 
-![Screenshot](./app-showcase/4.png)
+![Killer List](./app-showcase/4.png)
 
-![Screenshot](./app-showcase/5.png)
+![Map List](./app-showcase/5.png)
 
 ## Frontend
 
@@ -42,6 +42,12 @@ Feel free to add your own backend REST-API here instead
 - survivor & killer modals (info cards)
 - create home / main page
 - create video background on main page
+- add survivor perks and images
+- add killer modal
+- add map modal
+- play video on hover (maps)
+- map slider
+- tbd...
 
 ## TO-DO-LATER
 
@@ -49,4 +55,5 @@ Feel free to add your own backend REST-API here instead
 - create repository on GitHub
 - Replace fake backend rest api with nodeJs backend (express & mongodb)
 - use webpack bundler (maybe)
+- tbd...
 
