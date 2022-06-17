@@ -2,11 +2,15 @@
 
 ## Frontend
 
-- serve *APPNAME* (on Port 3000)
+### For the frontend we are using serve (npm serve package) to serve the FE folder
+- serve *APPNAME* (on Port 3000 or change it if you want)
+- (serve ./Frontend) (default port 3000)
 
 ## Backend
 
-- json-server --watch ./backend/db.json -- --port=5555
+### For this App we are using a "fake backend" (json-server)
+Feel free to add your own backend REST-API here instead
+- json-server --watch ./backend/app-data.json -- --port=5555
 
 ## TO-DO
 
