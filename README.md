@@ -1,4 +1,4 @@
-# <div style="color: purple;">Dead By Daylight Filter page with Vanilla JS</div> 😎 🥸 🥳
+# <div style="color: purple;">Dead By Daylight filter page with Vanilla JS</div> 😎 🥸 🥳
 ### <div style="color: limegreen;">This project is all about some DOM manipulation with vanilla JS (SPA approach).</div>
 #### <div style="color: red;">There is no focus on performance or something like that</div>
 
