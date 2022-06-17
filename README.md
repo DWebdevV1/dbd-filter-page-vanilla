@@ -2,6 +2,17 @@
 ### This project is all about some DOM manipulation with vanilla JS (SPA approach).
 #### There is no focus on performance or something like that
 
+## Features of this App
+- Using the FETCH API to make backend calls (REST-API)
+- Client filtering and input search
+- FlexBox
+- CSS Animations / Transitions
+- SPA approach (only one HTML file (index.html))
+- Vanilla JS modal approach
+- Playing audio files with event listeners
+- Replacing content with JS (DOM / BOM)
+- and more...
+
 ## Frontend
 
 ### For the frontend we are using serve (npm serve package) to serve the FE folder
