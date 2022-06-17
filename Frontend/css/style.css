@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Blaka&display=swap');
+
+@import "./helpers/search.css";
+@import "./helpers/badge.css";
+@import "./helpers/nav.css";
+@import "./helpers/modal.css";
+
+@import "./types/survivors.css";
+@import "./types/killers.css";
+@import "./types/maps.css";
+
+:root {
+    --main-color: rgb(106, 4, 4);
+    --text-color: rgb(254, 254, 254);
+    --main-bg: rgb(159, 7, 7);
+    --nav-active: rgba(250, 0, 0, 1);
+}
+
+body {
+    font-family: 'Blaka', cursive;
+    box-sizing: border-box !important;
+    margin: 0 auto;
+    padding: 5rem 0;
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom, #2a0000, #2b0f19, #2b1b25, #2b262d, #303030);
+    max-width: 1780px;
+}
+
+#survivors, #killers, #maps {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 5rem auto;
+}
+
+@media screen and (max-width: 883px) {
+    #survivors, #killers, #maps {
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 1399px) {
+    #survivors {
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 1767px) {
+    #killers {
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 1669px) {
+    #maps {
+        justify-content: center;
+    }
+}

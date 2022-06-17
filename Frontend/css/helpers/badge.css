@@ -1,0 +1,49 @@
+.box__badge {
+    position: absolute;
+    box-sizing: border-box;
+    color: white;
+    font-size: 2rem;
+    background-color: var(--main-bg);
+    padding: .5rem 0;
+    margin: 0;
+    text-align: center;
+    width: 20rem;
+}
+
+.box__badge--one, .box__badge--side,
+.box__badge--three, .box__badge--four {
+    filter: opacity(.5);
+}
+
+.box-killer__badge--center, .box-survivor__badge--center, .box-map__badge__name {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-size: 3rem;
+    filter: opacity(.75);
+}
+
+.box-killer__badge--center {
+    top: 75%;
+    font-size: 2.5rem;
+}
+
+.box-survivor__badge--center {
+    top: 75%;
+    font-size: 2rem;
+}
+
+.box-map__badge__name {
+    top: auto;
+    left: 0;
+    bottom: 0;
+    padding: 0;
+    transform: translate(0, 0);
+}
+
+.box__badge--side {
+    top: 0;
+    right: 0;
+    transform: rotate(45deg) translate(6.5rem, -2rem);
+}

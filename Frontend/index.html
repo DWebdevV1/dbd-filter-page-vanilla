@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dead By Daylight Showcase App</title>
+
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/app.js" type="module" defer></script>
+</head>
+<body>
+    <header>
+        <nav class="nav-bar">
+            <ul>
+                <li class="nav-survivors">
+                    <span>Survivors</span>
+                </li>
+                <li class="nav-killers">
+                    <span>Killers</span>
+                </li>
+                <li class="nav-maps">
+                    <span>Maps</span>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="search">
+            <form>
+                <label for="search-input">Suchen</label>
+                <input id="search-input" name="search" placeholder="Enter a search term from the DBD universe" autocomplete="off" />
+            </form>
+        </section>
+        <section id="survivors"></section>
+        <section id="killers"></section>
+        <section id="maps"></section>
+    </main>
+</body>
+</html>

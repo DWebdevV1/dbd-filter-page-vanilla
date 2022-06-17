@@ -1,0 +1,25 @@
+{
+  "name": "dbd_selector_backend",
+  "version": "1.0.0",
+  "description": "dbd backend for the frontend by dw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dbd",
+    "selector",
+    "site",
+    "backend",
+    "frontend",
+    "app",
+    "killer",
+    "survivor",
+    "map"
+  ],
+  "author": "DW",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
