@@ -15,6 +15,16 @@
 
 ![Screenshot](./app-showcase/1.png)
 
+![Screenshot](./app-showcase/2.png)
+
+![Screenshot](./app-showcase/3.png)
+
+![Screenshot](./app-showcase/4.png)
+
+![Screenshot](./app-showcase/5.png)
+
+![Screenshot](./app-showcase/6.png)
+
 ## Frontend
 
 ### For the frontend we are using serve (npm serve package) to serve the FE folder
