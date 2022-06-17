@@ -1,8 +1,8 @@
-# Dead By Daylight Filter page with Vanilla JS 
-### This project is all about some DOM manipulation with vanilla JS (SPA approach).
-#### There is no focus on performance or something like that
+# <div style="color: purple;">Dead By Daylight Filter page with Vanilla JS</div> 😎 🥸 🤩
+### <div style="color: limegreen;">This project is all about some DOM manipulation with vanilla JS (SPA approach).</div>
+#### <div style="color: red;">There is no focus on performance or something like that</div>
 
-## Features of this App
+## <div style="color: sandybrown;">Features of this App</div>
 - Using the FETCH API to make backend calls (REST-API)
 - Client filtering and input search
 - FlexBox
@@ -13,29 +13,37 @@
 - Replacing content with JS (DOM / BOM)
 - and more...
 
+___
+
+#### <div style="color: black;">Dynamic Data List (Survivor / Killers / Maps)</div>
 ![Survivor List](./app-showcase/1.png)
 
+#### <div style="color: black;">Dynamic Data Modal</div>
 ![Survivor Modal](./app-showcase/2.png)
 
+#### <div style="color: black;">Data Filter & Search</div>
 ![Survivor Filter](./app-showcase/3.png)
 
+#### <div style="color: black;">Active Audio Showcase</div>
 ![Killer List](./app-showcase/4.png)
 
+#### <div style="color: black;">Animations & Transitions</div>
 ![Map List](./app-showcase/5.png)
 
-## Frontend
+___
+## <div style="color: orange;">Frontend 🥰</div>
 
-### For the frontend we are using serve (npm serve package) to serve the FE folder
-- serve *APPNAME* (on Port 3000 or change it if you want)
-- (serve ./Frontend) (default port 3000)
+### <div style="color: lime;">For the frontend we are using serve (npm serve package) to serve the FE folder</div>
+- `serve *APPNAME* (on Port 3000 or change it if you want)`
+- `(serve ./Frontend) (default port 3000)`
 
-## Backend
+## <div style="color: deepskyblue;">Backend 🤕</div>
 
-### For this App we are using a "fake backend" (json-server)
-Feel free to add your own backend REST-API here instead
-- json-server --watch ./backend/app-data.json -- --port=5555
+### <div style="color: lime;">For this App we are using a "fake backend" (json-server)</div>
+Feel free to add your own backend REST-API here instead</div>
+- `json-server --watch ./backend/app-data.json -- --port=5555`
 
-## TO-DO
+## <div style="color:pink;">TO-DO 😋</div>
 
 - Load Images from backend
 - refactor frontend js code (initializing survivors / killers / maps)
@@ -49,7 +57,7 @@ Feel free to add your own backend REST-API here instead
 - map slider
 - tbd...
 
-## TO-DO-LATER
+## <div style="color:pink;">TO-DO-IN-FUTURE 😬</div>
 
 - refactor killer theme (music)
 - create repository on GitHub
